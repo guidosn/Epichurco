@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Epichurco.Benj8RIDES.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathDefecto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\guido\Desktop\CerverceriaSabai\</Value>
+    </Setting>
+    <Setting Name="DeFacturas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">formatosfacturas</Value>
+    </Setting>
+    <Setting Name="DeRides" Type="System.String" Scope="User">
+      <Value Profile="(Default)">formatosrides</Value>
+    </Setting>
+    <Setting Name="EsteFormatoFacturaCabecera" Type="System.String" Scope="User">
+      <Value Profile="(Default)">factura-1-formato-cabecera.pdf</Value>
+    </Setting>
+    <Setting Name="EsteFormatoRide" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ride-1-formato.pdf</Value>
+    </Setting>
+    <Setting Name="FacturasGeneradas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">generadasfacturas</Value>
+    </Setting>
+    <Setting Name="RidesGenerados" Type="System.String" Scope="User">
+      <Value Profile="(Default)">generadosrides</Value>
+    </Setting>
+    <Setting Name="CarpetaTemporal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">temporal</Value>
+    </Setting>
+    <Setting Name="ArchivoTemporal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">archivotemporal.pdf</Value>
+    </Setting>
+    <Setting Name="EsteFormatoFacturaDetalles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">factura-1-formato-detalles.pdf</Value>
+    </Setting>
+    <Setting Name="EsteFormatoFacturaTotales" Type="System.String" Scope="User">
+      <Value Profile="(Default)">factura-1-formato-totales.pdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
